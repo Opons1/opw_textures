@@ -1,0 +1,11 @@
+df_mapitems:dry_flowstone all default_stone.png
+df_mapitems:dry_stal_4 all default_stone.png
+df_mapitems:dry_stal_3 all default_stone.png
+df_mapitems:dry_stal_2 all default_stone.png
+df_mapitems:dry_stal_1 all default_stone.png
+
+df_mapitems:wet_flowstone all default_stone.png^dfcaverns_dripstone_streaks.png
+df_mapitems:wet_stal_4 all default_stone.png^dfcaverns_dripstone_streaks.png
+df_mapitems:wet_stal_3 all default_stone.png^dfcaverns_dripstone_streaks.png
+df_mapitems:wet_stal_2 all default_stone.png^dfcaverns_dripstone_streaks.png
+df_mapitems:wet_stal_1 all default_stone.png^dfcaverns_dripstone_streaks.png
